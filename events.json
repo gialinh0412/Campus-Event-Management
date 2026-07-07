@@ -1,0 +1,155 @@
+[
+    {
+        "event_id": 102,
+        "name": "AI Agent",
+        "date": "2026-12-08",
+        "capacity": 45,
+        "attendees": [
+            "student01"
+        ]
+    },
+    {
+        "event_id": 101,
+        "name": "Birthday Party",
+        "date": "2026-01-10",
+        "capacity": 20,
+        "attendees": [
+            "student01",
+            "student02",
+            "student03"
+        ]
+    },
+    {
+        "event_id": 103,
+        "name": "AI Workshop",
+        "date": "2026-12-20",
+        "capacity": 50,
+        "attendees": [
+            "student03"
+        ]
+    },
+    {
+        "event_id": 105,
+        "name": "Orientation Dat",
+        "date": "2026-09-01",
+        "capacity": 200,
+        "attendees": []
+    },
+    {
+        "event_id": 106,
+        "name": "Graduation Ceremory",
+        "date": "2025-06-20",
+        "capacity": 300,
+        "attendees": []
+    },
+    {
+        "event_id": 107,
+        "name": "Open Day",
+        "date": "2026-07-02",
+        "capacity": 100,
+        "attendees": []
+    },
+    {
+        "event_id": 108,
+        "name": "Mini Workshop",
+        "date": "2026-09-10",
+        "capacity": 2,
+        "attendees": [
+            "student01",
+            "student02"
+        ]
+    },
+    {
+        "event_id": 201,
+        "name": "Big Data Workshop",
+        "date": "2026-09-15",
+        "capacity": 60,
+        "attendees": [
+            "student01",
+            "student02",
+            "student03",
+            "student05",
+            "student"
+        ]
+    },
+    {
+        "event_id": 203,
+        "name": "Cyber Security Seminar",
+        "date": "2026-11-18",
+        "capacity": 80,
+        "attendees": [
+            "student03",
+            "student04"
+        ]
+    },
+    {
+        "event_id": 301,
+        "name": "English Club",
+        "date": "2026-07-03",
+        "capacity": 20,
+        "attendees": []
+    },
+    {
+        "event_id": 1,
+        "name": "Japanese Curtural Club",
+        "date": "2026-07-04",
+        "capacity": 20,
+        "attendees": []
+    },
+    {
+        "event_id": 303,
+        "name": "Football Club",
+        "date": "2026-07-05",
+        "capacity": 20,
+        "attendees": []
+    },
+    {
+        "event_id": 304,
+        "name": "Basketball Club",
+        "date": "2026-07-06",
+        "capacity": 30,
+        "attendees": []
+    },
+    {
+        "event_id": 306,
+        "name": "Music Festival",
+        "date": "2026-07-07",
+        "capacity": 40,
+        "attendees": []
+    },
+    {
+        "event_id": 308,
+        "name": "Robotics Contest",
+        "date": "2026-07-09",
+        "capacity": 35,
+        "attendees": []
+    },
+    {
+        "event_id": 307,
+        "name": "Science Fair",
+        "date": "2026-07-08",
+        "capacity": 49,
+        "attendees": []
+    },
+    {
+        "event_id": 309,
+        "name": "Startup Pitching",
+        "date": "2026-07-10",
+        "capacity": 25,
+        "attendees": []
+    },
+    {
+        "event_id": 310,
+        "name": "Photography Contest",
+        "date": "2026-07-11",
+        "capacity": 300,
+        "attendees": []
+    },
+    {
+        "event_id": 401,
+        "name": "Korean Cultural",
+        "date": "2027-01-28",
+        "capacity": 35,
+        "attendees": []
+    }
+]
